@@ -59,3 +59,19 @@ Each project includes:
 ## Professional Objective
 
 Seeking entry-level Cyber Threat Intelligence or OSINT-focused analyst roles where investigative experience and technical reconnaissance skills intersect.
+
+## 📁 Featured Projects
+
+### [Project 01: Corporate Digital Footprint & Infrastructure Exposure](link-to-folder)
+**Objective:** Identify publicly exposed assets and potential entry points for a mid-sized financial firm.
+
+**Key Findings:** IN PROGRESS
+
+**Tools:** Amass, Shodan, ExifTool.
+
+### [Project 02: Personnel & Email Pattern Reconnaissance](link-to-folder)
+**Objective:** Map the organizational structure and email naming conventions of a target entity.
+
+**Key Findings:** IN PROGRESS
+
+**Tools:** theHarvester, SpiderFoot.
