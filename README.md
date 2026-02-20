@@ -65,13 +65,13 @@ Seeking entry-level Cyber Threat Intelligence or OSINT-focused analyst roles whe
 ### [Project 01: Corporate Digital Footprint & Infrastructure Exposure](link-to-folder)
 **Objective:** Identify publicly exposed assets and potential entry points for a mid-sized financial firm.
 
-**Key Findings:** IN PROGRESS
+**Key Findings:** Identified 585 unique hosts for Walmart.com, including multiple staging and QA environments (e.g., advertising.staging.walmart.com) using Amass and theHarvester.
 
 **Tools:** Amass, Shodan, ExifTool.
 
 ### [Project 02: Personnel & Email Pattern Reconnaissance](link-to-folder)
 **Objective:** Map the organizational structure and email naming conventions of a target entity.
 
-**Key Findings:** IN PROGRESS
+**Key Findings:** Mapped 211 social media footprints for walmart-labs using Sherlock, identifying key engineering presence on platforms like GitHub and Discord.
 
 **Tools:** theHarvester, SpiderFoot.
