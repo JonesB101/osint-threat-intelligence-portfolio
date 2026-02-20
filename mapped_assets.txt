@@ -1,0 +1,2147 @@
+newsletter20.walmart.com	161.170.244.189
+stage-xref-gb-asda-ext-edc.walmart.com	161.170.249.84
+dal-monitor.mobile.walmart.com	161.170.248.237
+georgebackend.ems.staging.walmart.com	161.170.236.194
+o7.mail.myphotos.walmart.com	167.89.55.29
+es.corporate.walmart.com	50.57.214.177
+images.mytech.walmart.com	150.171.109.116
+gslb-c1-1.walmart.com	161.167.228.8
+mobile-e4.walmart.com	184.29.90.7
+o2432.abmail.em.walmart.com	149.72.215.21
+stage-xref-us-wal-ext-edcvip.walmart.com	161.170.249.82
+mpportal-e2.walmart.com	161.170.241.177
+stg.support-bot-ms-fe.supportchat.walmart.com	172.64.145.74
+104.18.42.182
+gslb-n1-2.walmart.com	161.168.132.9
+origin-mobile-e12.walmart.com	161.170.241.211
+opapi-pr.walmart.com	161.170.241.57
+mobile-idev1.walmart.com	140.174.10.211
+ak-dfw01-suppliercenter.walmart.com	161.170.236.74
+ak-dfw2b-grocery-qa.walmart.com	161.170.236.108
+labs.mobile-e7.walmart.com	161.170.241.240
+stage-xref-us-sams-ext-edcvip.walmart.com	161.170.249.83
+ofxmryjd.walmart.com	192.225.158.68
+metrics.walmart.com	63.140.38.116
+63.140.39.123
+63.140.39.154
+63.140.39.114
+63.140.39.214
+63.140.39.210
+63.140.39.25
+63.140.38.213
+63.140.39.244
+63.140.38.116
+www-release.walmart.com	23.205.110.135
+23.205.110.149
+origin-quimby-preview.mobile.walmart.com	161.170.238.88
+161.170.236.88
+receipts-query-sams-stg0.edge.walmart.com	161.170.236.156
+161.170.238.156
+o2442.abmail.em.walmart.com	149.72.228.219
+webservices-idev1.walmart.com	140.174.10.178
+osc-e5.walmart.com	161.170.241.228
+o2435.abmail.em.walmart.com	149.72.218.186
+search.walmartone.com.walmart.com	50.57.211.171
+newsletter15.walmart.com	161.170.244.184
+b.photos3.walmart.com	20.114.74.38
+api.fusion.walmart.com	162.13.200.14
+ak-b-dal01-www.walmart.com	161.170.238.64
+wmxemail.stg.walmart.com	161.170.244.192
+newsletter28.walmart.com	161.170.248.189
+mobile-e5.walmart.com	184.29.90.7
+mobile-e9.walmart.com	184.29.90.7
+stg-caportal.walmart.com	161.170.242.108
+mobile-origin-e4.walmart.com	161.170.241.203
+stage-xref-gb-asda-ext-ndc.walmart.com	161.170.245.84
+analytics-stg2.mobile.walmart.com	161.165.150.179
+xref-us-wal-ext-ndc.walmart.com	161.170.245.86
+o2419.abmail.em.walmart.com	149.72.155.210
+smetrics.walmart.com	63.140.39.244
+63.140.39.123
+63.140.38.107
+63.140.38.213
+63.140.38.116
+63.140.39.254
+63.140.39.87
+63.140.39.214
+63.140.39.146
+63.140.38.61
+o2470.abmail.em.walmart.com	168.245.53.209
+foundation.walmart.com	198.61.150.30
+egiftcards.centroamerica.walmart.com	104.18.42.182
+172.64.145.74
+wlfc.walmart.com	23.64.7.222
+blog.affiliates.walmart.com	23.205.249.210
+23.205.249.204
+analytics-stg4.mobile.walmart.com	161.165.150.179
+wsapi-e16.walmart.com	161.170.241.123
+newsletter21.walmart.com	161.170.244.190
+stage-xref-us-wal-ext-edc.walmart.com	161.170.249.82
+origin-photos-s1.mobile.walmart.com	161.170.244.238
+sourcing-workbench.staging.gs.walmart.com	52.153.121.154
+wmtmx2.walmart.com	161.170.244.203
+interns.walmart.com	192.237.192.239
+o13.sg.walmart.com	168.245.39.191
+opapi-e16.walmart.com	161.170.241.123
+exit.walmart.com	161.170.244.120
+wsapi-e2.walmart.com	161.170.241.45
+ebob-outbound.walmart.com	161.170.244.52
+walmartsustainabilityhub.emissionscalculators.walmart.com	104.18.42.182
+172.64.145.74
+moodle-azure-stg.prod.walmart.com	172.64.145.74
+104.18.42.182
+jira-salesforce-poc-qa.walmart.com	161.170.242.48
+o9.mail.myphotos.walmart.com	167.89.55.45
+www-test-e11.walmart.com	161.170.241.198
+fusion.walmart.com	162.13.104.53
+o1660.abmail.em.walmart.com	149.72.176.236
+osc-e9.walmart.com	161.170.241.232
+www-teflon.walmart.com	23.64.175.98
+www-e1.walmart.com	161.170.241.128
+wsapi-zdr.walmart.com	161.170.248.88
+161.170.244.88
+newsletter30.walmart.com	161.170.248.191
+q2-ukgm-tibcoems-secure.walmart.com	161.170.230.134
+i-origin.walmart.com	161.170.244.28
+o1650.abmail.em.walmart.com	149.72.141.132
+mpportal-vqa2.walmart.com	140.174.10.216
+wsgateway-pr.walmart.com	161.170.241.65
+origin-receipts-stg1.walmart.com	161.170.236.23
+ak-dal01-c.affil.walmart.com	161.170.238.138
+wm9.walmart.com	184.106.46.181
+dev-ccpa-api.walmart.com	161.167.142.22
+b.native-checkout.prod.affiliates.walmart.com	20.230.171.39
+edc-rx-api.stg2.mobile.walmart.com	161.170.249.75
+qaint-fraud.walmart.com	161.170.242.74
+goodies.walmart.com	161.170.244.97
+careers.walmart.com	23.64.7.222
+gslb-n1-1.walmart.com	161.168.132.8
+rptrcks.walmart.com	104.18.42.182
+172.64.145.74
+mobile-vqa4.walmart.com	140.174.10.210
+ak-a-dfw01-www.walmart.com	161.170.236.63
+personalizeditems-mbm.walmart.com	66.230.201.139
+hive-test.global.walmart.com	23.205.110.146
+23.205.110.139
+www-qa.adlink.walmart.com	146.75.126.132
+oauthlogincamqa.cam.walmart.com	23.205.110.149
+23.205.110.135
+newsletter26.walmart.com	161.170.248.187
+www-e3.walmart.com	23.8.0.14
+gecrm.walmart.com	136.146.36.219
+136.146.35.219
+136.146.42.219
+content-origin.walmart.com	161.170.248.93
+161.170.244.93
+o2461.abmail.em.walmart.com	167.89.71.40
+labs.mobile-e8.walmart.com	161.170.241.240
+dfw-fs-api.stg0.mobile.walmart.com	161.170.236.172
+content-edc.walmart.com	161.170.248.93
+payroll.stage.walmart.com	104.18.42.182
+172.64.145.74
+webservices-e11.walmart.com	161.170.241.162
+tax.walmart.com	161.170.244.137
+desksb-a.dsp.walmart.com	20.102.15.82
+stage-xref-ca-wal-ext-edcvip.walmart.com	161.170.249.85
+fraud.walmart.com	161.170.244.133
+161.170.248.133
+qa.personalizeditems-mbm.walmart.com	66.230.201.139
+avocado-e8.walmart.com	161.170.241.171
+dal-grocery-t1.stg.walmart.com	161.170.238.130
+www-e16-origin.walmart.com	161.170.241.115
+webservices-e12.walmart.com	161.170.241.163
+www.marchamos.walmart.com	20.185.220.135
+visit-api-qa.walmart.com	23.205.110.153
+23.205.110.148
+quimby.mobile.walmart.com	23.64.138.4
+o11.mail.myphotos.walmart.com	167.89.55.52
+o2450.abmail.em.walmart.com	167.89.108.103
+api-qa.waiting-room.walmart.com	172.64.145.74
+104.18.42.182
+avocado-e16.walmart.com	161.170.241.123
+mpportal-e4.walmart.com	161.170.241.179
+www-test-e4.walmart.com	161.170.241.191
+origin-grocery-api-stg0.walmart.com	161.170.249.73
+161.170.245.73
+www.walmart.com	184.29.90.191
+dal-origin-quimby-stg.mobile.walmart.com	161.170.238.45
+loans.walmart.com	161.170.244.20
+www-test-e5.walmart.com	161.170.241.192
+form.walmart.com	216.34.99.123
+p13n-assets.walmart.com	23.64.155.219
+groceryservices.qa.walmart.com	23.203.95.145
+newsletter22.walmart.com	161.170.244.191
+ak-edc-grocery-qa.walmart.com	161.170.249.61
+www2.walmart.com	161.170.248.58
+161.170.244.58
+origin-grocery-api.walmart.com	161.170.249.73
+161.170.245.73
+responsiblesourcing.walmart.com	198.245.82.46
+www-e6-origin.walmart.com	161.170.241.133
+mobile-stage.walmart.com	161.170.244.65
+o1654.abmail.em.walmart.com	149.72.150.29
+mtls.developer.api.walmart.com	146.75.126.132
+xref-ca-wal-ext-edc.walmart.com	161.170.249.89
+checkout.affil.walmart.com	161.170.244.159
+sdc-fileportal.walmart.com	161.170.242.13
+wm18.walmart.com	23.64.138.4
+wsgateway-e1.walmart.com	161.170.241.32
+parentschoicewipes.walmart.com	161.170.244.205
+developer.api.us.walmart.com	23.205.110.138
+23.205.110.144
+23.205.110.140
+23.205.110.139
+23.205.110.145
+23.205.110.143
+23.205.110.149
+23.205.110.146
+23.205.110.148
+cashi-bank.stg.walmart.com	23.201.96.154
+23.201.96.134
+o3150.em.test.walmart.com	149.72.146.0
+wsapi-pr.walmart.com	161.170.241.51
+o15.mail.myphotos.walmart.com	149.72.190.58
+mwireless.walmart.com	204.235.125.128
+sharepointwebhook.dpa.stg.walmart.com	104.18.42.182
+172.64.145.74
+mobile-e3.walmart.com	184.29.90.7
+mcse.walmart.com	161.170.244.140
+ebob-inbound-e3.walmart.com	161.170.240.130
+ukoms.walmart.com	161.170.230.109
+xref-gb-asda-ext-ndc.walmart.com	161.170.245.88
+cloud.walmartbenefits.walmart.com	198.245.82.44
+email.prod.walmart.com	34.102.239.211
+dal-analytics.mobile.walmart.com	161.170.238.37
+identity-stage.walmart.com	23.205.110.149
+23.205.110.135
+content-cdn.walmart.com	23.220.162.148
+23.220.162.144
+wwwndc.walmart.com	161.170.244.24
+www.survey.walmart.com	199.102.178.208
+ebob-inbound-vqa4.walmart.com	140.174.10.238
+sos.walmart.com	216.207.42.42
+personalizeditems-cps.walmart.com	52.201.67.113
+ak-sdc01-sandbox-cartservice.walmart.com	161.170.242.224
+et.stg.walmart.com	23.205.110.149
+23.205.110.135
+aroptical-wasm-storage.walmart.com	172.64.145.74
+104.18.42.182
+www.wm13.walmart.com	23.64.138.4
+origin-onboard-stg1.edge.walmart.com	161.170.236.93
+161.170.238.93
+quimby-stg1.mobile.walmart.com	23.64.162.8
+redd.wireless.walmart.com	104.18.42.182
+172.64.145.74
+apisb-a.dsp.walmart.com	20.102.15.82
+cert-transition.walmart.com	23.64.154.214
+mail.orbc.latam.walmart.com	147.154.28.23
+sellerhelp.walmart.com	13.109.180.9
+13.109.180.7
+13.109.180.6
+avocado.walmart.com	161.170.244.25
+wmtmx1.walmart.com	161.170.244.202
+o2477.abmail.em.walmart.com	198.21.5.25
+r-bvbrd-h2.walmart.com	161.170.254.2
+qwmgate.walmart.com	23.205.110.148
+23.205.110.153
+o2469.abmail.em.walmart.com	168.245.53.110
+mobile-vqa3.walmart.com	140.174.10.209
+ndc-www4140-origin.walmart.com	161.170.244.240
+texttoshop.stg.walmart.com	23.7.136.21
+104.67.201.218
+23.6.101.244
+104.68.254.48
+23.63.187.25
+184.27.6.58
+104.68.98.123
+ndc-rx-api.stg1.mobile.walmart.com	161.170.245.75
+o244.sends.customerfeedback.walmart.com	167.89.112.165
+receipts-sms-stg0.edge.walmart.com	161.170.236.95
+161.170.238.95
+developer.api.walmart.com	23.205.110.142
+23.205.110.153
+o2449.abmail.em.walmart.com	149.72.239.216
+desksb-b.dsp.walmart.com	20.102.15.82
+es.stock.walmart.com	50.57.214.177
+webservices-e9.walmart.com	161.170.241.160
+delivery.walmart.com	23.205.110.145
+23.205.110.151
+23.205.110.143
+23.205.110.152
+23.205.110.148
+23.205.110.146
+23.205.110.142
+23.205.110.144
+23.205.110.149
+www-e16.walmart.com	23.203.83.3
+mystore.walmart.com	23.64.138.4
+o2430.abmail.em.walmart.com	149.72.214.235
+o1656.abmail.em.walmart.com	149.72.152.30
+async-stage.wireless.walmart.com	204.235.124.96
+secure.payment.walmart.com	161.168.232.25
+advertising.walmart.com	23.205.110.152
+23.205.110.135
+23.205.110.148
+23.205.110.149
+23.205.110.151
+23.205.110.150
+23.205.110.154
+23.205.110.155
+23.205.110.133
+hop-service.walmart.com	161.170.242.85
+video-preprod-qa.walmart.com	208.79.222.158
+beacon.stage.walmart.com	172.16.104.5
+origin-edc.usgrocery-api-prod.walmart.com	161.170.249.96
+www2-e4.walmart.com	161.170.241.143
+associatebrand.walmart.com	204.74.99.100
+o6.sg.walmart.com	168.245.65.158
+o2455.abmail.em.walmart.com	167.89.35.237
+q2-photows.walmart.com	161.170.242.44
+o2463.abmail.em.walmart.com	168.245.10.63
+wmt-sng-stg1.edge.walmart.com	23.64.162.8
+dsatest-origin.walmart.com	161.170.244.27
+161.170.248.27
+ndc-osbce-01.walmart.com	161.168.144.46
+news.walmart.com	198.61.150.30
+o4395.abmail.business.walmart.com	223.165.118.139
+www-test-e1.walmart.com	161.170.241.188
+mpportal-e10.walmart.com	161.170.241.185
+o2441.abmail.em.walmart.com	149.72.228.211
+origin-ndc.usgrocery-api-prod.walmart.com	161.170.245.96
+ruggedadmin.walmart.com	192.30.68.20
+prospecart-test.walmart.com	216.117.55.61
+ops.mobile.walmart.com	20.230.171.39
+chat-qa.walmart.com	23.205.110.153
+23.205.110.148
+b.affil.walmart.com	20.242.10.199
+newsletter38.walmart.com	161.170.248.227
+stage-xref-us-sams-ext-ndcvip.walmart.com	161.170.245.83
+newsletter-13.walmart.com	161.167.252.15
+edc-vemail.walmart.com	161.170.248.192
+cashi.walmart.com	23.64.175.9
+o1657.abmail.em.walmart.com	149.72.152.37
+opapi-e2.walmart.com	161.170.241.39
+ak-dfw01-partner.walmart.com	161.170.236.19
+mobile-origin-e3.walmart.com	161.170.241.202
+business-perf.walmart.com	23.205.110.135
+23.205.110.149
+webservices-qa2.walmart.com	140.174.10.211
+ns5.walmart.com	161.168.251.141
+wmxemail.walmart.com	166.90.142.146
+xref-gb-asda-ext-edcvip.walmart.com	161.170.249.88
+beacon.walmart.com	20.242.10.199
+ablink.g.gaming.walmart.com	3.231.179.208
+3.220.122.174
+54.158.174.185
+3.20.87.51
+18.224.219.179
+3.20.194.73
+receipts-query-sams-stg1.edge.walmart.com	161.170.238.156
+161.170.236.156
+webservices-e5.walmart.com	161.170.241.156
+sellerhelp.cl.walmart.com	13.109.180.9
+13.109.180.6
+13.109.180.7
+photo.walmart.com	184.29.90.7
+wm15.walmart.com	23.64.138.4
+evt.spotlight.stg.walmart.com	161.165.150.179
+mpportal-e1.walmart.com	161.170.241.176
+ebob-inbound-e7.walmart.com	161.170.240.134
+gatekeepertest.walmart.com	204.235.124.50
+www-test-e10.walmart.com	161.170.241.197
+o4.sg.walmart.com	167.89.64.207
+one.walmart.com	146.75.127.10
+wmcc-mail01.walmart.com	161.170.244.245
+www.arnextgen-storage-stage.walmart.com	104.18.42.182
+172.64.145.74
+dal-checkin-stg.mobile.walmart.com	161.170.238.58
+sdc-vtwe.walmart.com	161.170.241.20
+ca-ext.prod.walmart.com	161.170.238.41
+jayaimee.walmart.com	3.132.164.178
+wsapi-e1.walmart.com	161.170.241.44
+dfw-origin-savingscatcher.edge.walmart.com	161.170.236.212
+o1984.abmail.info.gaming.walmart.com	149.72.166.139
+samples.walmart.com	72.3.150.4
+goodiesoms.walmart.com	161.170.244.134
+161.170.248.134
+newsletter29.walmart.com	161.170.248.190
+c-dmz-sbc01-wxce.walmart.com	161.167.229.113
+osc-e8.walmart.com	161.170.241.231
+email01-rs.walmart.com	161.170.248.175
+www-e2-origin.walmart.com	161.170.241.129
+xref-us-sams-ext-ndcvip.walmart.com	161.170.245.87
+newsletter18.walmart.com	161.170.244.187
+identity-teflon.walmart.com	23.205.110.135
+23.205.110.149
+assetportal-stage.walmart.com	146.75.127.10
+www-test-e7.walmart.com	161.170.241.194
+prs.walmart.com	161.170.244.75
+161.170.248.75
+newsletter54.walmart.com	161.170.244.106
+payroll.walmart.com	23.205.110.140
+23.205.110.146
+23.205.110.147
+23.205.110.151
+23.205.110.149
+23.205.110.132
+23.205.110.136
+23.205.110.138
+23.205.110.153
+hive-test.latam.walmart.com	23.205.110.140
+23.205.110.152
+23.205.110.144
+23.205.110.151
+origin.wmv-beta2.walmart.com	208.79.221.148
+receipts-query-wm-stg0.edge.walmart.com	23.203.95.145
+dc1-testwww.walmart.com	161.170.244.241
+storage.productanalytics.prod.walmart.com	172.64.145.74
+104.18.42.182
+wsgateway-e16.walmart.com	161.170.241.123
+o2.sg.walmart.com	149.72.250.244
+o2443.abmail.em.walmart.com	149.72.228.75
+wmt-sng-stg0.edge.walmart.com	23.64.162.8
+blog.walmart.com	198.61.150.30
+pdmnt13347us.walmart.com	161.168.144.76
+r-bvbrd-01-g0.walmart.com	161.170.254.5
+vwsapi2.walmart.com	161.170.244.64
+www-test-e12.walmart.com	161.170.241.199
+screening-service.walmart.com	23.36.60.232
+bankwmt.walmart.com	161.170.244.20
+afdverify.wmtmanagedb2c-identity-qa.walmart.com	150.171.109.118
+o13.mail.myphotos.walmart.com	167.89.57.61
+origin-photos.mobile.walmart.com	161.170.244.238
+ai.walmart.com	146.75.126.132
+o1663.abmail.em.walmart.com	198.21.1.107
+www-e5.walmart.com	161.170.241.132
+avocado-e9.walmart.com	161.170.241.172
+avocado-e12.walmart.com	161.170.241.175
+photos16qa.walmart.com	34.107.161.203
+survey.walmart.com	199.102.178.208
+r-dfwbrd-h1.walmart.com	161.170.252.65
+stg.deliverytracking.walmart.com	104.18.42.182
+172.64.145.74
+xref-us-wal-ext-edcvip.walmart.com	161.170.249.86
+stage-xref-gb-asda-ext-edcvip.walmart.com	161.170.249.84
+customjewelry-qa.walmart.com	146.20.1.99
+prod-ukgm-tibcobw.walmart.com	161.170.230.199
+fraudpdaxciom.walmart.com	161.170.180.106
+161.170.180.109
+161.170.180.24
+161.170.180.23
+analytics.www-release.walmart.com	34.36.89.9
+xref-gb-asda-ext-edc.walmart.com	161.170.249.88
+vendor.prm.walmart.com	184.106.42.8
+dfw-origin-quimby-stg.mobile.walmart.com	161.170.236.45
+mobile-e1.walmart.com	184.29.90.7
+newsletter23.walmart.com	161.170.248.184
+developer.api.uk.stg.walmart.com	23.205.110.135
+23.205.110.149
+edc-origin-api-stg.mobile.walmart.com	161.170.249.90
+o2439.abmail.em.walmart.com	149.72.222.8
+ak-ndc-jirasupport.walmart.com	161.170.245.80
+fraudpd.walmart.com	146.132.20.114
+161.167.143.114
+brandportal.walmart.com	23.36.60.232
+mpportal-e9.walmart.com	161.170.241.184
+phone-verification-stg0.mobile.walmart.com.edge.walmart.com	161.170.238.157
+161.170.236.157
+avocado-e3.walmart.com	161.170.241.166
+o2468.abmail.em.walmart.com	168.245.52.249
+yoursurvey.walmart.com	198.178.234.51
+cdn.corporate.walmart.com	23.64.157.96
+developer.api.us.stg.walmart.com	23.205.110.135
+23.205.110.149
+seller.walmart.com	23.205.110.146
+23.205.110.143
+23.205.110.142
+23.205.110.148
+23.205.110.135
+23.205.110.149
+23.205.110.145
+23.205.110.133
+23.205.110.134
+grocery.walmart.com	23.64.138.4
+stage-xref-ca-wal-ext-edc.walmart.com	161.170.249.85
+stage-xref-us-sams-ext-edc.walmart.com	161.170.249.83
+walmartsustainabilityhub.chat.qa.walmart.com	146.75.126.132
+vaccine-manager.walmart.com	23.205.110.145
+23.205.110.135
+23.205.110.142
+23.205.110.148
+23.205.110.137
+23.205.110.138
+23.205.110.146
+23.205.110.139
+23.205.110.143
+wm17.walmart.com	23.64.138.4
+read-ext.stage.asda-global-inventory-availability.services.qa.walmart.com	161.170.242.102
+itcareer.walmart.com	61.131.135.96
+cloud.comms.walmart.com	13.111.150.251
+radio.walmart.com	64.95.72.90
+origin-api-staging.mobile.walmart.com	161.170.244.208
+identity.walmart.com	23.205.110.142
+23.205.110.145
+23.205.110.139
+23.205.110.137
+23.205.110.146
+23.205.110.135
+23.205.110.138
+23.205.110.148
+23.205.110.143
+instoresnow.walmart.com	23.64.138.4
+r-dfwbrd-02-g2.walmart.com	161.170.252.71
+o2464.abmail.em.walmart.com	168.245.12.201
+opinion.walmart.com	23.59.105.4
+jewelry.walmart.com	52.84.147.97
+52.84.147.29
+52.84.147.32
+52.84.147.205
+email05-services.walmart.com	161.170.233.18
+o9.sg.walmart.com	159.183.105.90
+email06-services.walmart.com	161.170.233.19
+surveysays.walmart.com	23.64.157.96
+o10.mail.myphotos.walmart.com	167.89.55.49
+cert-customcards.walmart.com	23.203.95.145
+www2-e5.walmart.com	161.170.241.144
+beacon.beta.walmart.com	20.230.171.39
+o6.mail.myphotos.walmart.com	167.89.54.251
+click.comms.walmart.com	13.111.151.219
+origin-quimby-stg.mobile.walmart.com	161.170.238.45
+mpportal-e11.walmart.com	161.170.241.186
+aroptical-wasm.walmart.com	23.205.110.155
+23.205.110.151
+api.one.walmart.com	23.64.7.222
+api-gateway.walmart.com	23.205.110.146
+23.205.110.132
+23.205.110.144
+23.205.110.149
+23.205.110.143
+23.205.110.147
+23.205.110.151
+23.205.110.153
+23.205.110.148
+o1658.abmail.em.walmart.com	149.72.157.139
+gscope.walmart.com	104.18.42.182
+172.64.145.74
+fundacion.walmart.com	50.57.214.177
+newsletter32.walmart.com	161.170.244.225
+dns2.walmart.com	161.170.244.54
+r-dfwbrd-02-g1.walmart.com	161.170.255.14
+mobile-e12.walmart.com	184.29.90.7
+customcards.walmart.com	23.205.110.148
+23.205.110.145
+23.205.110.143
+23.205.110.149
+23.205.110.137
+23.205.110.133
+23.205.110.146
+23.205.110.134
+23.205.110.135
+sams-checkin-s1.mobile.walmart.com	23.64.162.187
+dfw-monitor.mobile.walmart.com	161.170.248.237
+campus.walmart.com	104.18.42.182
+172.64.145.74
+addressbook.walmart.com	161.170.244.138
+d1-fraud.walmart.com	161.170.242.71
+learn.walmart.com	23.64.138.4
+dfw-origin-quimby.mobile.walmart.com	161.170.236.44
+qa-xref-us-wal-ext.walmart.com	161.170.242.52
+o2458.abmail.em.walmart.com	167.89.39.99
+qamail1.walmart.com	161.170.241.16
+pages.comms.walmart.com	136.147.129.25
+wm8.walmart.com	104.239.219.152
+mail2.walmart.com	161.170.244.32
+o2440.abmail.em.walmart.com	149.72.226.158
+qa.stride.walmart.com	146.75.126.132
+o5.sg.walmart.com	167.89.76.192
+www-pr.walmart.com	161.170.241.135
+o2462.abmail.em.walmart.com	167.89.84.97
+health.walmart.com	23.64.138.4
+dfw-ar-app-nube1.walmart.com	161.170.230.177
+mibono.stage.walmart.com	23.205.110.148
+23.205.110.153
+newsletter51.walmart.com	161.170.244.95
+o12.mail.myphotos.walmart.com	167.89.55.71
+wm19.walmart.com	23.64.138.4
+newsletters.walmart.com	206.132.3.45
+receipts-query.edge.walmart.com	23.64.162.8
+www.news.walmart.com	198.61.150.30
+idcoobhm.walmart.com	182.71.248.238
+o15.ptr7591.giftcards-email.walmart.com	149.72.166.94
+stg-ukgmbw.walmart.com	161.170.242.87
+api-int-prod-pci.us.walmart.com	161.167.143.142
+146.132.34.142
+avocado-vqa1.walmart.com	140.174.10.198
+checkout2.affil.walmart.com	161.170.249.71
+161.170.245.71
+aroptical-scan.walmart.com	146.75.126.132
+ecm-web-prod.walmart.com	172.64.145.74
+104.18.42.182
+www2-e1.walmart.com	161.170.241.140
+enter.walmart.com	140.174.10.166
+fonts.walmart.com	23.64.138.4
+email02-rs.walmart.com	161.170.244.198
+o210.sends.customersparkcommunity.walmart.com	168.245.109.190
+image.walmartbenefits.walmart.com	23.220.162.132
+23.220.162.143
+business.walmart.com	23.205.110.141
+23.205.110.137
+23.205.110.134
+23.205.110.138
+23.205.110.133
+23.205.110.139
+23.205.110.142
+23.205.110.140
+23.205.110.135
+cert-api.one.walmart.com	23.64.154.214
+o2415.abmail.em.walmart.com	149.72.131.139
+webservices-e3.walmart.com	161.170.241.154
+ebob.walmart.com	161.170.244.51
+dal-origin-quimby.mobile.walmart.com	161.170.238.44
+o7.sg.walmart.com	198.37.158.173
+photos.walmart.com	34.160.241.9
+i.affil.walmart.com	166.90.142.15
+ak-dal-torbit-grocery.walmart.com	161.170.238.106
+image-pr.walmart.com	161.170.241.219
+militaryrings.walmart.com	204.86.194.131
+ndc-fileportal.prod.walmart.com	161.170.244.197
+ca-ext.qa-int.services.qa.walmart.com	161.170.242.79
+ndc-rx-api.mobile.walmart.com	161.170.245.75
+wm2.walmart.com	184.29.90.7
+o8.mail.myphotos.walmart.com	167.89.55.39
+wm-br-verio-01.walmart.com	140.174.10.133
+xref-us-sams-ext-edcvip.walmart.com	161.170.249.87
+webservices-e2.walmart.com	161.170.241.153
+stage-xref-us-sams-ext-ndc.walmart.com	161.170.245.83
+qa.amexpwp.walmart.com	161.170.242.38
+ns3.walmart.com	161.165.192.61
+wsapi-e4.walmart.com	161.170.241.47
+payment2.walmart.com	161.170.244.167
+161.170.248.167
+wsapi-e3.walmart.com	161.170.241.46
+mobile-origin.walmart.com	166.90.142.102
+api.notification-pref.stage.walmart.com	104.18.42.182
+172.64.145.74
+prod-ukgm-tibcoems-secure.walmart.com	161.170.232.141
+qa-xref-us-sams-ext.walmart.com	161.170.242.53
+securedataweb.walmart.com	23.203.82.78
+edc-rx-api.stg0.mobile.walmart.com	161.170.249.75
+qa-storeservice.walmart.com	161.170.242.84
+ebob-inbound-e10.walmart.com	161.170.240.137
+o2433.abmail.em.walmart.com	149.72.215.230
+email02-services.walmart.com	161.170.233.17
+api-int-qa-pci.us.walmart.com	161.167.143.140
+affil.stage.walmart.com	166.90.142.22
+o1652.abmail.em.walmart.com	149.72.143.210
+moneyservices.walmart.com	161.170.244.20
+iam.walmart.com	161.170.244.96
+161.170.248.96
+ndc-photos.mobile.walmart.com	161.170.244.238
+my.walmart.com	23.205.110.151
+23.205.110.155
+image.sparkgood.walmart.com	23.205.110.141
+23.205.110.134
+receipts-stg0.walmart.com	23.203.95.145
+www-e12.walmart.com	161.170.241.139
+wsgateway-e2.walmart.com	161.170.241.33
+egist-qa.walmart.com	161.170.238.40
+osc-e10.walmart.com	161.170.241.233
+o2418.abmail.em.walmart.com	149.72.132.194
+ak-dfw01-cartservice.walmart.com	161.170.236.87
+b.affiliates.walmart.com	20.230.171.39
+www-test-e6.walmart.com	161.170.241.193
+autodiscover.walmart.com	161.167.228.30
+newsletter24.walmart.com	161.170.248.185
+mobile-e10.walmart.com	184.29.90.7
+dfw-sams-checkin.mobile.walmart.com	161.170.236.57
+artworkhive-test-temp.asia.walmart.com	193.189.141.108
+centroamerica.walmart.com	23.205.110.151
+23.205.110.155
+o1659.abmail.em.walmart.com	149.72.172.173
+sdc-www-e4.walmart.com	161.170.241.131
+mail-relay2.walmart.com	161.163.44.20
+edc-osbce-01.walmart.com	161.165.144.46
+mail-relay.walmart.com	161.163.44.19
+origin-quimby.mobile.walmart.com	161.170.238.44
+evt.spotlight.qa.walmart.com	161.165.150.179
+gateway.walmart.com	140.174.10.252
+merchtool.walmart.com	184.29.90.7
+www2-e8.walmart.com	161.170.241.147
+dfw-fs-api.mobile.walmart.com	161.170.236.171
+wsgateway-e3.walmart.com	161.170.241.34
+marketplacewp.walmart.com	35.196.30.189
+analytics-qa.mobile.walmart.com	52.171.218.35
+newsletter-36.walmart.com	161.168.242.18
+mobile-origin-e10.walmart.com	161.170.241.209
+mpportal-e8.walmart.com	161.170.241.183
+newsletter31.walmart.com	161.170.244.224
+dal-origin-savingscatcher-stg0.edge.walmart.com	161.170.238.213
+analytics-stg1.mobile.walmart.com	161.165.150.179
+mobilendc.walmart.com	161.170.244.94
+origin-photos-s0.mobile.walmart.com	161.170.248.238
+xref-gb-asda-ext-ndcvip.walmart.com	161.170.245.88
+webservices-e6.walmart.com	161.170.241.157
+babybox.walmart.com	173.203.62.219
+cdc-monitor.mobile.walmart.com	161.170.248.237
+newsletter35.walmart.com	161.170.248.224
+www.e12.walmart.com	161.170.241.139
+challenge.walmart.com	104.239.219.152
+atlas-responsive-qa.walmart.com	161.170.242.116
+dal-origin-savingscatcher-stg1.edge.walmart.com	161.170.238.214
+adsaver.walmart.com	23.64.157.96
+wm3.walmart.com	23.64.138.4
+q4-photows.walmart.com	161.170.242.46
+mpportal-e12.walmart.com	161.170.241.187
+imagemgr.walmart.com	23.203.95.145
+mobile-e2.walmart.com	184.29.90.7
+ak-edc01-tracking-rs1.walmart.com	161.170.248.175
+api-beta-game.walmart.com	23.205.110.143
+23.205.110.147
+assetportal-dev.walmart.com	146.75.127.10
+horuag-cndc1.walmart.com	43.229.216.82
+api.mobile.walmart.com	23.64.138.4
+mta.comms.walmart.com	13.111.22.42
+ww.walmart.com	184.29.90.191
+ulearn-int.prod.walmart.com	172.64.145.74
+104.18.42.182
+me.walmart.com	23.64.7.222
+email04-services.walmart.com	161.170.231.18
+wellness.walmart.com	18.165.31.126
+18.165.31.6
+18.165.31.4
+18.165.31.45
+svipreg.walmart.com	172.64.145.74
+104.18.42.182
+o2472.abmail.em.walmart.com	168.245.6.135
+www2-edc.walmart.com	161.170.248.58
+pfedcert.walmart.com	23.205.110.138
+23.205.110.155
+avocado-e6.walmart.com	161.170.241.169
+avocado-e10.walmart.com	161.170.241.173
+deliverytracking.walmart.com	23.205.110.144
+23.205.110.138
+23.205.110.141
+23.205.110.133
+23.205.110.139
+23.205.110.146
+23.205.110.145
+23.205.110.136
+23.205.110.142
+consulta.giftcard.centroamerica.walmart.com	172.64.145.74
+104.18.42.182
+stg.uno.walmart.com	23.205.110.154
+23.205.110.135
+stage-xref-gb-asda-ext-ndcvip.walmart.com	161.170.245.84
+people.api.prod.walmart.com	146.75.126.132
+o2087.abmail.inhome.walmart.com	149.72.174.48
+digitaldownload.walmart.com	65.205.253.241
+dfw-origin-search-stg0.mobile.walmart.com	161.170.236.21
+photos2.walmart.com	34.160.241.9
+lmd.stage.walmart.com	172.64.145.74
+104.18.42.182
+sams-checkin-s0.mobile.walmart.com	161.170.238.56
+o2436.abmail.em.walmart.com	149.72.219.185
+sdc-www-e1.walmart.com	161.170.241.128
+newsletter50.walmart.com	161.170.244.83
+ak-dfw01-c.affil.walmart.com	161.170.236.138
+dev-classrings.walmart.com	72.3.218.13
+wm7.walmart.com	23.64.138.4
+q-asuft-104.walmart.com	156.95.238.120
+affw.walmart.com	23.205.249.210
+23.205.249.204
+mobile-e7.walmart.com	184.29.90.7
+prod.mpmantle.catdev.walmart.com	161.165.150.207
+o2427.abmail.em.walmart.com	149.72.201.206
+www.adlink.walmart.com	172.64.145.74
+104.18.42.182
+b.www.walmart.com	20.114.74.38
+dfw-ar-app-nube2.walmart.com	161.170.230.178
+supplier.walmart.com	23.205.110.145
+23.205.110.141
+23.205.110.143
+23.205.110.149
+23.205.110.140
+23.205.110.139
+23.205.110.142
+23.205.110.144
+23.205.110.146
+photows.walmart.com	161.170.238.107
+161.170.236.107
+click.walmartbenefits.walmart.com	68.232.203.70
+beautybox.walmart.com	23.227.38.74
+nwww2.walmart.com	161.170.244.58
+es.foundation.walmart.com	50.57.214.177
+o2421.abmail.em.walmart.com	149.72.168.86
+www.arnextgen-storage.walmart.com	104.18.42.182
+172.64.145.74
+qa-securedataweb.walmart.com	23.64.153.179
+osc-e4.walmart.com	161.170.241.227
+avocado-e1.walmart.com	161.170.241.164
+view.responsiblesourcing.walmart.com	68.232.203.71
+dfw-d1-mosaicoms-1.dev.walmart.com	161.170.242.215
+view.comms.walmart.com	13.111.152.219
+beacon.affil.walmart.com	20.114.74.38
+www2-e3.walmart.com	161.170.241.142
+bedrock.qa.walmart.com	161.170.236.215
+161.170.238.215
+opapi-e5.walmart.com	161.170.241.42
+o1.comms3.walmart.com	149.72.254.205
+digitalcoupons.walmart.com	161.170.238.42
+161.170.236.42
+newsletter45.walmart.com	161.170.248.103
+www2-ndc.walmart.com	161.170.244.58
+gslb-e1-2.walmart.com	161.165.132.9
+webservices-e8.walmart.com	161.170.241.159
+origin-search.mobile.walmart.com	161.170.236.20
+api-int-prod-nonpci.us.walmart.com	161.167.143.143
+146.132.34.143
+mobile-e11.walmart.com	184.29.90.7
+cap-project2.walmart.com	50.57.211.170
+phone-receipts-qa.mobile.walmart.com	161.170.241.242
+newsletter34.walmart.com	161.170.244.227
+ablink.inhome.walmart.com	54.158.174.185
+3.20.87.51
+3.20.194.73
+18.224.219.179
+3.231.179.208
+3.220.122.174
+cc.walmart.com	23.36.60.232
+enigma.walmart.com	140.174.10.170
+wsgateway.walmart.com	161.170.248.81
+161.170.244.81
+corporativo.walmart.com	50.57.214.177
+vcsedgen-1.walmart.com	161.168.229.45
+origin-quimby-preview-stg.mobile.walmart.com	161.170.236.89
+161.170.238.89
+preview-desk-internal.dsp.walmart.com	20.102.15.82
+osc-e12.walmart.com	161.170.241.235
+sustainability.platform.walmart.com	172.64.145.74
+104.18.42.182
+analytics.mobile.walmart.com	20.114.74.38
+www2-e7.walmart.com	161.170.241.146
+photos1.walmart.com	34.160.241.9
+www-test-e3.walmart.com	161.170.241.190
+sdc-www-e3.walmart.com	161.170.241.130
+ak-dfw01-apis.relay.walmart.com	161.170.238.200
+rider.wireless.walmart.com	104.18.42.182
+172.64.145.74
+newsletter48.walmart.com	161.170.244.19
+mobile-origin-e1.walmart.com	161.170.241.200
+edc-gdns1.walmart.com	161.170.248.254
+newsletter36.walmart.com	161.170.248.225
+track-email.walmart.com	140.174.10.242
+wm11.walmart.com	104.239.219.152
+ads.walmart.com	10.65.209.210
+delivery-qa.walmart.com	23.203.95.145
+aztb-azlb-scus-beacon-t1.beacon.walmart.com	52.153.240.74
+origin-receipts-stg0.walmart.com	161.170.238.23
+bp.www.walmart.com	20.242.10.199
+dfw-grocery-t1.stg.walmart.com	161.170.236.130
+www-ndc.walmart.com	161.170.244.20
+wireless.walmart.com	172.64.145.74
+104.18.42.182
+stage-xref-ca-wal-ext-ndc.walmart.com	161.170.245.85
+origin-receipts.walmart.com	161.170.236.17
+origin-perfmobile.walmart.com	161.170.244.94
+time.walmart.com	132.163.96.2
+ns4.walmart.com	161.168.251.140
+newsletter40.walmart.com	161.170.248.33
+advertisinghelp.walmart.com	13.109.180.5
+13.109.180.4
+13.109.180.2
+api.mytech.stage.walmart.com	104.18.42.182
+172.64.145.74
+wellspring.walmart.com	18.165.31.4
+18.165.31.126
+18.165.31.45
+18.165.31.6
+o1642.abmail.em.walmart.com	149.72.134.53
+hive-test.asia.walmart.com	23.205.110.145
+23.205.110.150
+mobile-origin-e9.walmart.com	161.170.241.208
+hive.global.walmart.com	23.205.110.132
+23.205.110.141
+marketplace-apply.walmart.com	13.109.180.6
+13.109.180.7
+13.109.180.8
+r-dfwbrd-01-g2.walmart.com	161.170.252.70
+aroptical-wasm-storage-qa.walmart.com	23.205.110.149
+23.205.110.143
+o2467.abmail.em.walmart.com	168.245.52.24
+dal-origin-search-stg1.mobile.walmart.com	161.170.238.21
+ak-edc01-www.walmart.com	161.170.248.176
+investments.walmart.com	161.170.244.20
+customily.walmart.com	52.53.105.196
+arpoprod02.wireless.walmart.com	204.235.126.112
+q1-fraud.walmart.com	161.170.242.70
+o2416.abmail.em.walmart.com	149.72.132.192
+store-receipts-qa.mobile.walmart.com	161.170.241.243
+coupons.walmart.com	23.64.138.4
+cashi-dev.walmart.com	23.64.7.79
+mta.responsiblesourcing.walmart.com	13.111.27.120
+wmrducr.walmart.com	186.26.123.69
+origin-store-stg0.mobile.walmart.com	161.170.238.36
+authsb-a.dsp.walmart.com	135.234.199.21
+www-e6.walmart.com	23.203.83.3
+ak-dal01-cartservice.walmart.com	161.170.238.87
+wmvrtcc.walmart.com	161.170.248.112
+et.prod.walmart.com	23.205.110.140
+23.205.110.139
+23.205.110.153
+23.205.110.145
+23.205.110.149
+23.205.110.154
+23.205.110.148
+23.205.110.143
+23.205.110.152
+stg-ukgmems-secure.walmart.com	161.170.242.86
+esb.asda-connect.walmart.com	161.170.238.76
+161.170.236.76
+stackoverflow.dx.walmart.com	104.18.30.89
+104.18.31.89
+o4394.abmail.business.walmart.com	223.165.118.138
+www-e10.walmart.com	161.170.241.137
+ndc-rx-api.stg0.mobile.walmart.com	161.170.245.75
+connect.walmart.com	184.106.46.181
+ebob-outbound-vqa3.walmart.com	140.174.10.159
+webservicesndc.walmart.com	161.170.244.47
+donations.walmart.com	23.205.110.151
+23.205.110.155
+ewmms.walmart.com	146.75.126.132
+xref-us-sams-ext-ndc.walmart.com	161.170.245.87
+mobile-origin-e8.walmart.com	161.170.241.237
+www.servicio.walmart.com	20.185.220.135
+www-e1-origin.walmart.com	161.170.241.128
+o3.sg.walmart.com	167.89.64.203
+o2457.abmail.em.walmart.com	167.89.39.19
+newsletter52.walmart.com	161.170.244.99
+api.feedbackally.stage.walmart.com	172.64.145.74
+104.18.42.182
+beta.walmart.com	184.29.90.191
+mp3.walmart.com	161.170.248.68
+www.marketplacewp.walmart.com	34.71.85.60
+sams-checkin-s2.mobile.walmart.com	161.170.238.56
+o11.sg.walmart.com	159.183.72.173
+qa-xref-us-wal-extvip.walmart.com	161.170.242.52
+www-qa1.walmart.com	140.174.10.201
+mobile-e8.walmart.com	184.29.90.7
+consulta.giftcard.qa.centroamerica.walmart.com	104.18.42.182
+172.64.145.74
+customgateway.walmart.com	18.135.8.154
+18.170.234.172
+18.132.217.125
+o2429.abmail.em.walmart.com	149.72.201.248
+reportinghive.latam.walmart.com	147.154.28.23
+ebob-inbound-e5.walmart.com	161.170.240.132
+downloads2.walmart.com	161.170.248.59
+161.170.244.59
+q2-ukgm-tibcobw.walmart.com	161.170.230.192
+prospecart.walmart.com	199.231.198.115
+photos3.walmart.com	34.160.241.9
+pfedprod.walmart.com	104.18.41.254
+172.64.146.2
+wmtmanagedb2c-identity.walmart.com	172.64.145.74
+104.18.42.182
+newsletter46.walmart.com	161.170.248.106
+opapi-e4.walmart.com	161.170.241.41
+ebob-inbound-vqa2.walmart.com	140.174.10.156
+o1983.abmail.g.gaming.walmart.com	149.72.153.176
+newsletter53.walmart.com	161.170.244.103
+qa.walmart.com	140.174.10.201
+origin-sams-checkin-s0.mobile.walmart.com	161.170.238.56
+origin-store.mobile.walmart.com	161.170.236.35
+161.170.238.35
+localhost.sparkgood.walmart.com	127.0.0.1
+omniture-ssl.walmart.com	63.140.38.38
+63.140.39.25
+63.140.38.59
+63.140.38.204
+63.140.38.77
+63.140.39.78
+63.140.39.68
+63.140.38.248
+63.140.38.130
+63.140.39.145
+csp.walmart.com	23.205.110.132
+23.205.110.155
+23.205.110.150
+23.205.110.151
+23.205.110.146
+23.205.110.152
+23.205.110.133
+23.205.110.153
+23.205.110.149
+wsstagephoto.walmart.com	161.170.244.49
+spark-driver-qa.chat-connector.walmart.com	172.64.145.74
+104.18.42.182
+o1.mail.myphotos.walmart.com	167.89.53.116
+monitor.mobile.walmart.com	161.170.248.237
+o1655.abmail.em.walmart.com	149.72.150.33
+www.wm12.walmart.com	23.64.138.4
+b.business.walmart.com	20.114.74.38
+qa-xref-gb-asda-extvip.walmart.com	161.170.242.54
+q1-photows.walmart.com	161.170.242.69
+newsletter43.walmart.com	161.170.248.95
+sparkgood.walmart.com	198.245.82.46
+www2-e9.walmart.com	161.170.241.148
+o2426.abmail.em.walmart.com	149.72.194.44
+local.walmart.com	198.61.182.30
+edc-rx-api.mobile.walmart.com	161.170.249.75
+www.beta-game.walmart.com	23.205.110.143
+23.205.110.147
+origin-sams-checkin-s1.mobile.walmart.com	161.170.238.56
+payment.walmart.com	161.170.244.168
+161.170.248.168
+assetportal-qa.walmart.com	146.75.127.10
+read-ext.ebf.asda-global-inventory-availability.services.qa.walmart.com	161.170.242.104
+ak-edc-jirasupport.walmart.com	161.170.249.80
+www2-e6.walmart.com	161.170.241.145
+analytics-stg0.mobile.walmart.com	161.165.150.179
+wmcc-mail02.walmart.com	161.170.248.245
+ebob-inbound-e6.walmart.com	161.170.240.133
+r-bvbrd-02-g0.walmart.com	161.170.254.6
+plus-stg.walmart.com	23.205.110.149
+23.205.110.135
+homeservices.walmart.com	18.165.53.26
+18.165.53.13
+18.165.53.80
+18.165.53.59
+tracking01.walmart.com	161.170.244.192
+whri.walmart.com	18.165.31.126
+18.165.31.45
+18.165.31.4
+18.165.31.6
+prm.walmart.com	184.106.42.8
+o2428.abmail.em.walmart.com	149.72.201.207
+bounce01-services.walmart.com	161.170.236.31
+opapi-zdr.walmart.com	161.170.244.87
+161.170.248.87
+mobile-origin-e6.walmart.com	161.170.241.205
+www-e3-origin.walmart.com	161.170.241.130
+jim-homeoffice-tramlawstage.walmart.com	216.207.42.104
+chat.walmart.com	172.64.145.74
+104.18.42.182
+wm10.walmart.com	104.239.219.152
+serviz.walmart.com	18.165.53.26
+18.165.53.59
+18.165.53.80
+18.165.53.13
+origin.wmv-staging.walmart.com	208.79.221.149
+q1-iam.walmart.com	161.170.242.64
+email.bulk.walmart.com	34.102.239.211
+sdc-www-e2.walmart.com	161.170.241.129
+o2431.abmail.em.walmart.com	149.72.215.193
+origin-checkin.mobile.walmart.com	161.170.238.53
+wsgateway-e4.walmart.com	161.170.241.35
+affiliates.walmart.com	23.201.96.143
+23.201.96.148
+livebundle.storage.walmart.com	104.18.42.182
+172.64.145.74
+avocado-e5.walmart.com	161.170.241.168
+wm12.walmart.com	23.64.138.4
+cap.walmart.com	184.106.46.178
+ebob-inbound-e4.walmart.com	161.170.240.131
+apis.relay.walmart.com	23.201.96.148
+23.201.96.143
+ofxmryjd.seller.walmart.com	192.225.158.68
+osc-e1.walmart.com	161.170.241.224
+ak-dfw-torbit-grocery.walmart.com	161.170.236.106
+ce.walmart.com	146.75.126.132
+mtls.developer.api.stg.walmart.com	146.75.126.132
+cart.walmart.com	161.170.244.132
+161.170.248.132
+avondc.walmart.com	161.170.244.45
+dailyeats.walmart.com	18.165.31.6
+18.165.31.126
+18.165.31.4
+18.165.31.45
+edc-fileportal.prod.walmart.com	161.170.248.197
+events.waiting-room.walmart.com	172.203.37.85
+o2437.abmail.em.walmart.com	149.72.219.228
+origin-onboard-stg0.edge.walmart.com	161.170.238.93
+161.170.236.93
+dfw-fs-api.stg2.mobile.walmart.com	161.170.236.172
+o133.sends.customersparksurvey.walmart.com	149.72.129.53
+o2420.abmail.em.walmart.com	149.72.156.139
+o2446.abmail.em.walmart.com	149.72.231.154
+sams-checkin.mobile.walmart.com	23.64.162.8
+avocado-e11.walmart.com	161.170.241.174
+analytics-stg3.mobile.walmart.com	161.165.150.179
+dfw-checkin.mobile.walmart.com	161.170.236.53
+o2459.abmail.em.walmart.com	167.89.40.60
+wrd.walmart.com	104.18.42.182
+172.64.145.74
+avocado-e2.walmart.com	161.170.241.165
+o1662.abmail.em.walmart.com	198.21.0.65
+mymoneycenter.walmart.com	198.160.127.23
+o2434.abmail.em.walmart.com	149.72.218.166
+classrings.walmart.com	100.48.174.2
+54.144.93.128
+help.walmart.com	23.64.138.4
+jira-stage.walmart.com	23.205.110.149
+23.205.110.135
+community.walmart.com	23.64.138.4
+graphics.walmart.com	161.165.195.20
+qa-xref-ca-wal-extvip.walmart.com	161.170.242.55
+cavkph001.walmart.com	140.174.10.228
+bixby.stg.walmart.com	23.205.110.154
+23.205.110.135
+www2-e12.walmart.com	161.170.241.151
+receipts.walmart.com	23.64.162.8
+newsletter37.walmart.com	161.170.248.226
+www-e4.walmart.com	161.170.241.131
+z2vlqjzl.dailyeats.walmart.com	223.165.116.213
+osc-e2.walmart.com	161.170.241.225
+opapi-e1.walmart.com	161.170.241.38
+gslb-e1-1.walmart.com	161.165.132.8
+www-test-e9.walmart.com	161.170.241.196
+o2417.abmail.em.walmart.com	149.72.132.201
+websrvcs-e16.walmart.com	161.170.241.123
+avocado-e7.walmart.com	161.170.241.170
+vendorkiosk.walmart.com	161.170.244.35
+test-digitalmusic.walmart.com	65.205.253.238
+eclosing-stage.walmart.com	104.18.42.182
+172.64.145.74
+shareopinions.walmart.com	209.244.156.20
+api.inhome.teflon.walmart.com	146.75.126.132
+dfw-origin-savingscatcher-stg1.edge.walmart.com	161.170.236.214
+ak-dfw2a-grocery-qa.walmart.com	161.170.236.108
+www-e11.walmart.com	161.170.241.138
+o2456.abmail.em.walmart.com	167.89.36.197
+stagephotobob1.walmart.com	140.174.10.237
+content-ndc.walmart.com	161.170.244.93
+o2474.abmail.em.walmart.com	168.245.75.231
+apisb-b.dsp.walmart.com	20.102.15.82
+vcsedgee-2.walmart.com	161.165.195.46
+o2473.abmail.em.walmart.com	168.245.7.204
+origin-grocery-api-stg1.walmart.com	161.170.245.73
+161.170.249.73
+ak-ndc-i-grocery-qa.walmart.com	161.170.245.62
+donations-stage.walmart.com	172.64.145.74
+104.18.42.182
+origin-mobile-stage.walmart.com	161.170.244.65
+qamail2.walmart.com	161.170.241.17
+ebob-inbound-e2.walmart.com	161.170.240.129
+idcoobggn.walmart.com	123.63.16.125
+devhomeloans.walmart.com	12.24.85.119
+r-bvbrd-h1.walmart.com	161.170.254.1
+newsletter17.walmart.com	161.170.244.186
+affil.walmart.com	23.205.110.155
+23.205.110.149
+23.205.110.151
+23.205.110.139
+23.205.110.152
+23.205.110.138
+23.205.110.132
+23.205.110.140
+23.205.110.153
+stage-xref-us-wal-ext-ndc.walmart.com	161.170.245.82
+email.gh-mail.walmart.com	34.102.239.211
+carrier.walmart.com	23.205.110.147
+23.205.110.154
+23.205.110.138
+23.205.110.155
+23.205.110.149
+23.205.110.135
+23.205.110.134
+23.205.110.150
+23.205.110.152
+www3-e2.walmart.com	161.170.241.77
+ak-dfw01-www.walmart.com	161.170.236.30
+supplierhub.sourcing.walmart.com	104.18.42.182
+172.64.145.74
+q5-photows.walmart.com	161.170.242.47
+stage.customersparkcommunity.walmart.com	172.64.145.74
+104.18.42.182
+supplierhelp.walmart.com	13.109.180.8
+13.109.180.7
+13.109.180.6
+share.walmart.com	184.106.46.181
+crystal.walmart.com	172.64.145.74
+104.18.42.182
+vendor.cca.uno.walmart.com	23.205.110.147
+23.205.110.139
+23.205.110.143
+23.205.110.144
+23.205.110.145
+23.205.110.141
+23.205.110.146
+23.205.110.150
+23.205.110.140
+wallet.www.walmart.com	23.205.110.146
+23.205.110.149
+23.205.110.142
+23.205.110.151
+23.205.110.153
+23.205.110.140
+23.205.110.152
+23.205.110.139
+23.205.110.145
+wsgateway-e6.walmart.com	161.170.241.37
+o132.sends.customersparksurvey.walmart.com	149.72.208.57
+mobile-origin-e7.walmart.com	161.170.241.206
+www.game-qa.walmart.com	23.205.110.151
+23.205.110.153
+mobile-origin-e5.walmart.com	161.170.241.204
+www-e2.walmart.com	161.170.241.129
+ffwsstagephoto.walmart.com	161.170.244.44
+o2422.abmail.em.walmart.com	149.72.171.229
+o1648.abmail.em.walmart.com	149.72.138.189
+complaint01.walmart.com	161.170.244.181
+certruggedadmin.walmart.com	192.30.68.113
+amazing.walmart.com	23.219.91.23
+23.219.91.17
+owa.walmart.com	140.174.10.137
+osc-e11.walmart.com	161.170.241.234
+mobile-origin-e11.walmart.com	161.170.241.210
+stage-xref-ca-wal-ext-ndcvip.walmart.com	161.170.245.85
+wm5.qa.walmart.com	184.106.41.147
+sdc-www-e5.walmart.com	161.170.241.132
+groceryservices.walmart.com	23.64.155.219
+wwwndc2.walmart.com	161.170.244.46
+wally-ga-qa.walmart.com	104.18.42.182
+172.64.145.74
+newsletter44.walmart.com	161.170.248.99
+edc-classrooms.walmart.com	161.170.248.130
+wm14.walmart.com	23.64.138.4
+click.sparkgood.walmart.com	68.232.203.70
+stage-preview-sams.walmart.com	23.64.162.187
+o2466.abmail.em.walmart.com	168.245.40.41
+ndc-api.mobile.walmart.com	161.170.244.207
+mobile-e6.walmart.com	184.29.90.7
+origin-photos-s2.mobile.walmart.com	161.170.244.238
+o1644.abmail.em.walmart.com	149.72.138.139
+ndc-monitor.mobile.walmart.com	161.170.248.237
+classrooms-origin.walmart.com	161.170.248.130
+161.170.244.130
+enigma3.walmart.com	161.170.244.121
+walmart.com	184.29.90.191
+api.control-qa.waiting-room.walmart.com	172.64.145.74
+104.18.42.182
+o1661.abmail.em.walmart.com	168.245.35.91
+customerengagement.walmart.com	18.165.31.4
+18.165.31.45
+18.165.31.6
+18.165.31.126
+onesource.stg.walmart.com	23.205.110.153
+23.205.110.148
+q3-photows.walmart.com	161.170.242.45
+www-edc.walmart.com	161.170.248.20
+taxtweadmin.walmart.com	161.170.244.135
+o2451.abmail.em.walmart.com	167.89.108.219
+savingscatcher.walmart.com	23.64.157.96
+o2425.abmail.em.walmart.com	149.72.190.49
+www2-origin.walmart.com	161.170.248.58
+161.170.244.58
+www2-e10.walmart.com	161.170.241.149
+phone-verification-stg1.mobile.walmart.com.edge.walmart.com	161.170.236.157
+161.170.238.157
+newsletter47.walmart.com	161.170.244.27
+wsapi-e5.walmart.com	161.170.241.48
+zprs.walmart.com	161.170.248.76
+161.170.244.76
+partnerportal.walmart.com	161.170.244.56
+affiliate.walmart.com	23.201.96.148
+23.201.96.143
+newsletter27.walmart.com	161.170.248.188
+newsletter42.walmart.com	161.170.248.83
+cafepress.walmart.com	13.35.196.90
+13.35.196.4
+13.35.196.67
+13.35.196.40
+www2-e2.walmart.com	161.170.241.141
+inhome.walmart.com	23.64.155.219
+walmartsustainabilityhub.emissionscalculators.qa.walmart.com	172.64.145.74
+104.18.42.182
+api-uat-game.walmart.com	23.205.110.151
+23.205.110.153
+hive.latam.walmart.com	23.205.110.148
+23.205.110.153
+ak-edc-i-grocery-qa.walmart.com	161.170.249.62
+o1649.abmail.em.walmart.com	149.72.138.193
+apility.walmart.com	161.170.236.97
+161.170.238.97
+supportchat.walmart.com	172.64.145.74
+104.18.42.182
+stg.stride.walmart.com	146.75.126.132
+sparkreviewer.walmart.com	18.165.53.81
+18.165.53.111
+18.165.53.113
+18.165.53.91
+o2460.abmail.em.walmart.com	167.89.52.219
+origin-onboard.edge.walmart.com	161.170.238.92
+161.170.236.92
+mobile-e16.walmart.com	161.170.241.123
+jira.walmart.com	23.205.110.142
+23.205.110.149
+afdverify.wmtmanagedb2c-identity-stg.walmart.com	150.171.109.116
+bounce02.walmart.com	161.170.244.180
+origin-mobile.walmart.com	161.170.244.63
+161.170.248.63
+newsletter41.walmart.com	161.170.248.40
+mpportal-e6.walmart.com	161.170.241.181
+qa-xref-gb-asda-ext.walmart.com	161.170.242.54
+www-test-e2.walmart.com	161.170.241.189
+wsstagephoto-ssl.walmart.com	161.170.244.49
+csp-stg.walmart.com	23.203.95.145
+newsletter33.walmart.com	161.170.244.226
+corporate.walmart.com	146.75.127.10
+ns2.walmart.com	161.165.192.60
+mail4.walmart.com	161.170.244.67
+www-e4-origin.walmart.com	161.170.241.131
+o2471.abmail.em.walmart.com	168.245.54.2
+o1651.abmail.em.walmart.com	149.72.143.208
+origin-sams-checkin.mobile.walmart.com	161.170.238.57
+facebook.walmart.com	184.106.46.181
+beacon.qa.walmart.com	161.170.238.123
+161.170.236.123
+o245.fvsend.walmart.com	167.89.31.61
+o2475.abmail.em.walmart.com	192.254.116.114
+osc.walmart.com	161.170.244.74
+getegiftcard.walmart.com	52.42.250.13
+100.23.240.29
+dal-origin-savingscatcher.edge.walmart.com	161.170.238.212
+xref-us-wal-ext-edc.walmart.com	161.170.249.86
+wwwtest.walmart.com	161.170.244.10
+sdc-www-e6.walmart.com	161.170.241.133
+reviews.walmart.com	18.165.31.110
+18.165.31.33
+18.165.31.96
+18.165.31.71
+image.comms.walmart.com	23.205.110.138
+23.205.110.132
+b.walmart.com	161.170.244.31
+webservices-e1.walmart.com	161.170.241.152
+qwmgate-hro.walmart.com	23.205.110.148
+23.205.110.153
+cashi-qa2.walmart.com	23.64.7.79
+cap-sso.walmart.com	184.106.42.10
+glb-monitor.mobile.walmart.com	161.170.248.237
+auth.fusion.walmart.com	95.138.155.243
+click.walmart.com	52.38.175.44
+54.190.76.248
+35.85.162.125
+mpportal-e3.walmart.com	161.170.241.178
+vwsapi.walmart.com	161.170.244.62
+ak-ndc-grocery-qa.walmart.com	161.170.245.61
+oauthlogincam.walmart.com	23.205.110.133
+23.205.110.138
+23.205.110.155
+23.205.110.148
+23.205.110.145
+23.205.110.147
+23.205.110.153
+23.205.110.150
+flowers.walmart.com	100.28.104.175
+54.157.108.158
+98.83.184.133
+webservices-e4.walmart.com	161.170.241.155
+o2424.abmail.em.walmart.com	149.72.190.46
+gslb-c1-2.walmart.com	161.167.228.9
+developer.walmart.com	23.201.96.143
+23.201.96.148
+mpportal-e5.walmart.com	161.170.241.180
+visit.walmart.com	23.205.110.142
+23.205.110.149
+mpportal-e7.walmart.com	161.170.241.182
+service-payment.walmart.com	184.29.90.7
+image.odexperience.walmart.com	23.220.162.132
+23.220.162.143
+newsletter19.walmart.com	161.170.244.188
+www-test-e8.walmart.com	161.170.241.195
+www-dev.walmart.com	23.64.175.98
+golocal.walmart.com	146.75.125.55
+api.sparknotifications.stage.walmart.com	172.64.145.74
+104.18.42.182
+origin-store-stg1.mobile.walmart.com	161.170.238.36
+keepsake.walmart.com	72.3.218.31
+o3254.abmail.btest.walmart.com	149.72.141.137
+www-origin.walmart.com	161.170.244.20
+161.170.248.20
+www.business.walmart.com	23.205.110.154
+23.205.110.135
+23.205.110.150
+23.205.110.152
+23.205.110.144
+wm3.auth.walmart.com	184.106.46.180
+email03-services.walmart.com	161.170.231.17
+o2465.abmail.em.walmart.com	168.245.2.186
+q1-iam2.walmart.com	161.170.242.76
+o2476.abmail.em.walmart.com	192.254.116.59
+jira-aha-poc-qa-int.walmart.com	161.170.242.48
+mail1.walmart.com	161.170.244.39
+xref-ca-wal-ext-ndcvip.walmart.com	161.170.245.89
+ak-a-dal01-www.walmart.com	161.170.238.63
+read-ext.qa.asda-global-inventory-availability.services.qa.walmart.com	161.170.242.101
+liquidations.walmart.com	104.20.21.23
+172.66.175.180
+mpportal-idev2.walmart.com	140.174.10.177
+q1-payment.walmart.com	161.170.242.73
+mailrelay03.walmart.com	161.170.244.40
+es.news.walmart.com	50.57.214.177
+o2452.abmail.em.walmart.com	167.89.108.254
+xref-ca-wal-ext-ndc.walmart.com	161.170.245.89
+swoprod02.wireless.walmart.com	204.235.126.111
+wm16.walmart.com	23.64.138.4
+assetportal.walmart.com	146.75.127.10
+keepsakefinepaper.walmart.com	204.86.194.1
+fraudqaaxciom.walmart.com	161.170.180.53
+161.170.180.76
+opapi-idev1.walmart.com	140.174.10.226
+ndc-rx-api.stg2.mobile.walmart.com	161.170.245.75
+grocery-services.walmart.com	23.64.155.219
+stage.interviewing.walmart.com	172.64.145.74
+104.18.42.182
+qa-service-payment.walmart.com	184.29.90.7
+blob.sparknotifications.walmart.com	146.75.126.132
+moodle-azure.prod.walmart.com	172.64.145.74
+104.18.42.182
+api-stg.waiting-room.walmart.com	172.64.145.74
+104.18.42.182
+e-dmz-sbc01-wxce.walmart.com	161.165.144.41
+o2414.abmail.em.walmart.com	149.72.131.137
+developer.api.stg.walmart.com	23.205.110.149
+23.205.110.135
+mta.walmartbenefits.walmart.com	13.111.27.78
+wfs.walmart.com	161.170.244.20
+osc-e6.walmart.com	161.170.241.229
+q2-ukoms.walmart.com	161.170.230.118
+stg2-fraud.walmart.com	161.170.242.77
+developer.api.uk.walmart.com	23.205.110.147
+23.205.110.143
+23.205.110.144
+23.205.110.141
+23.205.110.145
+23.205.110.149
+23.205.110.146
+23.205.110.142
+23.205.110.148
+wmtmanagedb2c-identity-stg.walmart.com	23.205.110.155
+23.205.110.138
+qa-checkout2-affil.walmart.com	161.170.242.211
+sem-coop.walmart.com	166.78.84.6
+wsapi-e6.walmart.com	161.170.241.49
+aztb-azlb-wus-beacon-t1.beacon.walmart.com	13.91.192.133
+vcsedgen-3.walmart.com	161.168.229.47
+newsletter25.walmart.com	161.170.248.186
+bin.edge.walmart.com	23.64.162.8
+bulkgiftcards.walmart.com	23.64.138.4
+phishmart.walmart.com	23.205.110.143
+23.205.110.149
+23.205.110.152
+23.205.110.140
+23.205.110.150
+23.205.110.139
+23.205.110.144
+23.205.110.145
+23.205.110.147
+irsws.walmart.com	161.170.244.139
+161.170.248.139
+cpa-qa.walmart.com	104.18.42.182
+172.64.145.74
+drfdisvc.walmart.com	192.225.158.68
+beacon.classrooms.walmart.com	20.242.10.199
+api.notification-pref.walmart.com	172.64.145.74
+104.18.42.182
+api.inhome.stg.walmart.com	23.64.153.197
+wwwstagephoto.walmart.com	161.170.244.43
+pages.odexperience.walmart.com	68.232.203.80
+api.control-stg.waiting-room.walmart.com	104.18.42.182
+172.64.145.74
+acnt.walmart.com	146.75.126.132
+xref-ca-wal-ext-edcvip.walmart.com	161.170.249.89
+pdmnt13344us.walmart.com	161.165.144.39
+www-e7.walmart.com	161.170.241.134
+convergys.walmart.com	161.170.244.25
+edc-monitor.mobile.walmart.com	161.170.248.237
+dns1.walmart.com	161.170.244.53
+sng.mobile.walmart.com	23.64.162.8
+webservices-e7.walmart.com	161.170.241.158
+o322.sends.research.walmart.com	159.183.128.214
+labs.mobile-e5.walmart.com	161.170.241.240
+receipts-query-sams.edge.walmart.com	23.64.162.8
+www-e14-origin.walmart.com	161.170.241.113
+ulearn-int.stg.walmart.com	23.205.110.153
+23.205.110.148
+o2447.abmail.em.walmart.com	149.72.233.26
+invite.walmart.com	166.90.142.14
+updates.walmart.com	18.165.31.45
+18.165.31.4
+18.165.31.6
+18.165.31.126
+entry.survey.walmart.com	199.102.178.208
+checking.walmart.com	161.170.244.20
+guide-api.walmart.com	172.64.145.74
+104.18.42.182
+mobile-vqa2.walmart.com	140.174.10.208
+affiliates.buynow.stg.walmart.com	172.64.145.74
+104.18.42.182
+www-e5-origin.walmart.com	161.170.241.132
+aroptical-app-hub.walmart.com	104.18.42.182
+172.64.145.74
+qa-ccpa-reporting-dropbox.walmart.com	161.167.142.22
+cert-one.walmart.com	23.203.95.145
+o1647.abmail.em.walmart.com	149.72.138.188
+webservices.e12.walmart.com	161.170.241.163
+receipts-query-wm-stg1.edge.walmart.com	184.29.90.7
+receipts-stg2.walmart.com	23.203.95.145
+newsletter-30.walmart.com	161.168.242.12
+entertainment.walmart.com	184.29.90.191
+superman.mediadownloads.walmart.com	72.32.86.190
+beacon-privacy.walmart.com	20.114.74.38
+o1643.abmail.em.walmart.com	149.72.136.127
+www-fa.walmart.com	146.75.126.132
+osc-e3.walmart.com	161.170.241.226
+bounce01.walmart.com	161.170.244.179
+csphelp.walmart.com	136.146.37.219
+136.146.41.219
+136.146.36.219
+origin-store-stg2.mobile.walmart.com	161.170.238.36
+optout.mediadownloads.walmart.com	208.185.219.136
+o14.mail.myphotos.walmart.com	149.72.155.66
+xref-us-sams-ext-edc.walmart.com	161.170.249.87
+webservices.walmart.com	161.170.244.41
+www.asiacareers.walmart.com	23.64.7.222
+bedrock.walmart.com	161.170.232.175
+161.165.150.221
+api.waiting-room.walmart.com	104.18.42.182
+172.64.145.74
+edc-api.mobile.walmart.com	161.170.248.207
+beacon.savingscatcher.walmart.com	20.230.171.39
+localhost.comms.walmart.com	127.0.0.1
+newsletter-29.walmart.com	161.168.242.11
+library-qa-author.walmart.com	20.36.28.177
+edc-photos.mobile.walmart.com	161.170.248.238
+o2423.abmail.em.walmart.com	149.72.189.212
+example.walmart.com	184.106.46.181
+o1646.abmail.em.walmart.com	149.72.138.184
+o2445.abmail.em.walmart.com	149.72.229.143
+o2453.abmail.em.walmart.com	167.89.14.173
+prospec-test.walmart.com	23.205.110.142
+23.205.110.138
+dal-fs-api.stg1.mobile.walmart.com	161.170.238.172
+savemoneylivebetter.walmart.com	184.106.46.181
+webservices-e10.walmart.com	161.170.241.161
+email01-services.walmart.com	161.170.236.31
+jewelrydesign.walmart.com	72.3.218.42
+mft.walmart.com	50.57.214.76
+o2448.abmail.em.walmart.com	149.72.238.52
+avocado-e4.walmart.com	161.170.241.167
+afdverify.wmtmanagedb2c-identity.walmart.com	150.171.109.118
+o4393.abmail.business.walmart.com	223.165.118.137
+origin-api.mobile.walmart.com	161.170.244.207
+161.170.248.207
+tracking.walmart.com	23.36.60.232
+newsletter16.walmart.com	161.170.244.185
+stock.walmart.com	18.165.53.98
+18.165.53.81
+18.165.53.56
+18.165.53.68
+marketplace.walmart.com	34.71.85.60
+musiclicenses.walmart.com	161.170.248.69
+testmobile.walmart.com	23.64.162.8
+wally-ga.walmart.com	172.64.145.74
+104.18.42.182
+brandportal.stg.walmart.com	23.205.110.155
+23.205.110.138
+leasing.walmart.com	23.205.110.134
+23.205.110.145
+23.205.110.143
+23.205.110.149
+23.205.110.142
+23.205.110.144
+23.205.110.137
+23.205.110.150
+o3.mail.myphotos.walmart.com	167.89.53.56
+o2438.abmail.em.walmart.com	149.72.221.255
+jira-aha-poc-qa.walmart.com	161.170.242.48
+mobile-origin-e2.walmart.com	161.170.241.201
+wm13.walmart.com	23.64.138.4
+prospec.walmart.com	23.205.110.148
+23.205.110.137
+cavw002.walmart.com	140.174.10.231
+newsletter49.walmart.com	161.170.244.183
+opapi-e6.walmart.com	161.170.241.43
+wwwedc.walmart.com	161.170.248.24
+wm5.walmart.com	23.64.138.4
+sfo-redd.wireless.walmart.com	104.18.42.182
+172.64.145.74
+stage-xref-us-wal-ext-ndcvip.walmart.com	161.170.245.82
+dfw-fs-api.stg1.mobile.walmart.com	161.170.236.172
+ebob-inbound-e1.walmart.com	161.170.240.128
+mail3.walmart.com	161.170.244.34
+url1664.giftcards-email.walmart.com	3.20.87.51
+3.220.122.174
+3.231.179.208
+3.20.194.73
+18.224.219.179
+54.158.174.185
+o246.fvsend.walmart.com	167.89.39.137
+texttoshop.staging.walmart.com	23.64.154.214
+creator.walmart.com	146.75.126.132
+feed.walmart.com	161.170.244.131
+www.stock.walmart.com	204.74.99.100
+o8.sg.walmart.com	149.72.88.143
+origin-sams-checkin-s2.mobile.walmart.com	161.170.238.56
+www2-e11.walmart.com	161.170.241.150
+osc-e7.walmart.com	161.170.241.230
+o12.sg.walmart.com	159.183.76.21
+o4.mail.myphotos.walmart.com	167.89.54.123
+qa-checkout.affil.walmart.com	161.170.242.83
+wm20.walmart.com	104.239.219.152
+opapi-e3.walmart.com	161.170.241.40
+cap-project.walmart.com	50.57.211.170
+wsgateway-e5.walmart.com	161.170.241.36
+o16.mail.myphotos.walmart.com	168.245.2.225
+ak-dal01-www.walmart.com	161.170.238.30
+nutrition.walmart.com	18.165.31.45
+18.165.31.4
+18.165.31.126
+18.165.31.6
+qa-xref-us-sams-extvip.walmart.com	161.170.242.53
+api-int-qa-nonpci.us.walmart.com	161.167.143.141
+egist.walmart.com	161.170.238.39
+quimby-stg2.mobile.walmart.com	23.64.162.8
+wwwedc2.walmart.com	161.170.248.46
+o1645.abmail.em.walmart.com	149.72.138.183
+o2444.abmail.em.walmart.com	149.72.228.78
+pages.responsiblesourcing.walmart.com	68.232.203.80
+bedrock.stg.walmart.com	161.170.236.216
+161.170.238.216
+origin-sng.mobile.walmart.com	161.170.238.54
+161.170.236.54
+daastipping.walmart.com	172.64.145.74
+104.18.42.182
+ocp.stage.walmart.com	146.75.126.132
+cp.walmart.com	104.18.42.182
+172.64.145.74
+i-secure-qa-origin.walmart.com	140.174.10.180
+newsletter-37.walmart.com	161.168.242.19
+prod-ccpa-reporting-dropbox.walmart.com	161.165.151.28
+liderai.stage.walmart.com	23.205.110.153
+23.205.110.148
+www-qa3.walmart.com	140.174.10.203
+mobile-static-origin.walmart.com	166.90.142.102
+fraudqa.walmart.com	161.167.143.113
+146.132.20.113
+q-api.www-stage.walmart.com	104.18.42.182
+172.64.145.74
+teflon.ptt.walmart.com	104.18.42.182
+172.64.145.74
+test-keepsake.walmart.com	72.3.218.32
+fulfillment-qa2.walmart.com	140.174.10.204
+seller.stg.walmart.com	23.205.110.149
+23.205.110.135
+odexperience.walmart.com	198.245.82.46
+reels-teflon.walmart.com	23.205.110.153
+23.205.110.148
+mi.walmart.com	18.165.31.126
+18.165.31.98
+18.165.31.31
+18.165.31.78
+walmartworld.walmart.com	136.147.129.27
+gwfm-stg-ext.walmart.com	23.203.95.145
+business-stage.walmart.com	23.205.110.135
+23.205.110.149
+www-ak.walmart.com	184.29.90.191
+www-vqa1-origin.walmart.com	140.174.10.196
+newsletter-16.walmart.com	161.167.252.18
+giftcards-locker-uat.walmart.com	23.203.83.3
+iam2qa.walmart.com	161.170.242.78
+partnersb.dsp.walmart.com	20.102.15.82
+experiencia.walmart.com	20.185.220.135
+mfaas-static.walmart.com	23.205.110.142
+23.205.110.149
+b.hermes.walmart.com	20.230.171.39
+prospecart-gm-test.walmart.com	216.117.55.62
+liveaccess.invue.walmart.com	172.212.35.217
+mobile-vqa1.walmart.com	140.174.10.207
+bounce-resource.walmart.com	161.170.244.179
+161.170.248.179
+161.170.248.180
+161.170.244.180
+ns1-adns.walmart.com	161.170.244.253
+hive.asia.walmart.com	23.205.110.144
+23.205.110.150
+wallet.walmart.com	23.205.110.154
+23.205.110.148
+23.205.110.135
+23.205.110.144
+23.205.110.150
+23.205.110.147
+ebob-outbound-vqa1.walmart.com	140.174.10.235
+hwclinicalservices-dmz-qa-edc.walmart.com	161.165.128.66
+tweapp.walmart.com	161.170.244.72
+customerspark.walmart.com	18.165.31.126
+18.165.31.6
+18.165.31.45
+18.165.31.4
+onesource.walmart.com	23.205.110.149
+23.205.110.142
+tech.walmart.com	23.64.7.222
+www-stage.walmart.com	23.203.83.3
+wmsalud-qa.walmart.com	172.64.145.74
+104.18.42.182
+stage.sustainability.platform.walmart.com	146.75.126.132
+www-eis.walmart.com	23.50.52.245
+23.50.52.247
+financialproducts.walmart.com	161.170.244.20
+ebob-inbound-vqa3.walmart.com	140.174.10.158
+blob.sparknotifications.stage.walmart.com	146.75.126.132
+partnerportal-test.walmart.com	161.170.244.57
+b.identity.walmart.com	20.242.10.199
+personalizedfabrics.walmart.com	71.251.7.69
+comms.walmart.com	136.147.129.27
+webservices-vqa4.walmart.com	140.174.10.185
+wem-stage-author.walmart.com	146.75.126.132
+data.pendo.seller.walmart.com	34.107.204.85
+34.107.204.85
+asiacareers.walmart.com	23.64.7.222
+wwwtraining.walmart.com	140.174.10.225
+o2454.abmail.em.walmart.com	167.89.34.196
+origin-savingscatcher.walmart.com	161.170.248.243
+161.170.244.243
+visit-qa.walmart.com	23.205.110.148
+23.205.110.153
+links.em.walmart.com	172.64.145.74
+104.18.42.182
+ndc-www4170-origin.walmart.com	161.170.244.220
+api.sparknotifications.walmart.com	104.18.42.182
+172.64.145.74
+feedbackally.walmart.com	172.64.145.74
+104.18.42.182
+onesource-gateway.walmart.com	146.75.126.132
+dev-keepsake.walmart.com	72.3.218.33
+support.walmart.com	18.165.31.6
+18.165.31.45
+18.165.31.4
+18.165.31.126
+commercetech.walmart.com	199.60.103.28
+199.60.103.228
+qa.zeekit.walmart.com	104.18.42.182
+172.64.145.74
+newsletter-5.walmart.com	161.167.252.7
+sparknotifications.walmart.com	104.18.42.182
+172.64.145.74
+giving.walmart.com	198.61.150.30
+marchamo.walmart.com	20.185.220.135
+developer.api.us2.stg.walmart.com	23.205.110.149
+23.205.110.135
+localmarketplace.walmart.com	18.165.31.45
+18.165.31.4
+18.165.31.6
+18.165.31.126
+marketplacelearn.stg.walmart.com	23.205.110.148
+23.205.110.153
+cpa-ui.walmart.com	23.205.110.155
+23.205.110.142
+www-qa4.walmart.com	140.174.10.204
+newsletter-28.walmart.com	161.168.242.10
+fm-tracker.stage.walmart.com	146.75.126.132
+url4094.walmart.com	3.20.87.51
+3.20.194.73
+3.231.179.208
+54.158.174.185
+18.224.219.179
+3.220.122.174
+pdmnt13345us.walmart.com	161.168.144.15
+collect.defenderx.walmart.com	172.64.145.74
+104.18.42.182
+comms45.walmart.com	3.20.87.51
+3.20.194.73
+3.220.122.174
+3.231.179.208
+18.224.219.179
+54.158.174.185
+people.api.stage.walmart.com	172.64.145.74
+104.18.42.182
+newsletter-35.walmart.com	161.168.242.17
+newsletter-8.walmart.com	161.167.252.10
+ak-edc01-tracking-wmcc-mail.walmart.com	161.170.248.245
+ndc-dsatest.walmart.com	161.170.244.27
+awtunnelrelaycloud-ndc.walmart.com	161.168.132.33
+newsletter-27.walmart.com	161.168.242.9
+ndc-grocery-api.walmart.com	161.170.245.73
+www2-vqa3.walmart.com	140.174.10.222
+cashi-qa3.walmart.com	23.64.7.79
+cashi-idev.walmart.com	23.64.7.79
+developer.api.cl.walmart.com	23.205.110.149
+23.205.110.142
+enforcer.defenderx.qa.walmart.com	146.75.126.132
+goto.walmart.com	34.96.104.86
+stage.campus.walmart.com	172.64.145.74
+104.18.42.182
+carloans.walmart.com	161.170.244.20
+ewaltex.walmart.com	172.64.145.74
+104.18.42.182
+incident.uno.walmart.com	23.205.110.148
+23.205.110.136
+23.205.110.150
+23.205.110.144
+cccp.es.relay.walmart.com	34.102.239.211
+experience.walmart.com	23.205.110.145
+23.205.110.154
+23.205.110.153
+23.205.110.135
+23.205.110.149
+23.205.110.144
+23.205.110.152
+23.205.110.136
+23.205.110.150
+www-preview-origin.walmart.com	161.170.238.52
+161.170.236.52
+api.mytech.walmart.com	104.18.42.182
+172.64.145.74
+dfw-origin-search-stg2.mobile.walmart.com	161.170.236.21
+login.stage.sourcing.walmart.com	172.64.145.74
+104.18.42.182
+wallet-teflon.walmart.com	23.205.110.149
+23.205.110.135
+opportunity.walmart.com	104.130.144.215
+vcsedgee-1.walmart.com	161.165.195.45
+stage.vaccine-manager.walmart.com	23.205.110.135
+23.205.110.149
+stg.mfaas-static.walmart.com	23.205.110.148
+23.205.110.153
+certrugged.walmart.com	192.30.68.113
+ccpa-ui-dev.walmart.com	23.205.110.135
+23.205.110.149
+downloads2-vqa4.walmart.com	140.174.10.187
+wgs.walmart.com	161.170.244.20
+mpportal-idev1.walmart.com	140.174.10.176
+clicks.walmart.com	146.75.126.132
+newsletter-22.walmart.com	161.168.242.4
+healthscreening.walmart.com	23.36.60.232
+ak-ndc01-www.walmart.com	161.170.244.199
+atlas-responsive.walmart.com	161.170.242.115
+work-manager.stage.walmart.com	172.64.145.74
+104.18.42.182
+jim-homeoffice-walmart.walmart.com	172.29.158.93
+webservices-vqa3.walmart.com	140.174.10.221
+developer.api.ca.walmart.com	23.205.110.142
+23.205.110.149
+caq-email-outbound.walmart.com	140.174.10.240
+www-perf.walmart.com	23.203.83.3
+stg-mx-moc-mapping-service.walmart.com	13.85.31.243
+b.super.walmart.com	20.242.10.199
+digitaltoolboxwidget.qa.walmart.com	23.205.110.135
+23.205.110.149
+business-teflon.walmart.com	23.205.110.135
+23.205.110.149
+ns2-adns.walmart.com	161.170.248.253
+www2-qa2.walmart.com	140.174.10.203
+feedbackally.stage.walmart.com	172.64.145.74
+104.18.42.182
+newsletter-17.walmart.com	161.167.252.19
+developer.api.cl.stg.walmart.com	23.205.110.149
+23.205.110.135
+newsletter-26.walmart.com	161.168.242.8
+mpportal-vqa4.walmart.com	140.174.10.181
+ebob-inbound-e16.walmart.com	161.170.240.143
+bsp.corporate.walmart.com	192.237.224.30
+omniture.walmart.com	63.140.39.68
+63.140.38.248
+63.140.38.130
+63.140.39.210
+63.140.39.154
+63.140.39.25
+63.140.38.59
+63.140.38.204
+63.140.38.77
+63.140.39.78
+auth.dsp.walmart.com	135.234.199.21
+customerfeedback.walmart.com	20.185.220.135
+developer.api.mx.stg.walmart.com	23.205.110.149
+23.205.110.135
+wmgate.walmart.com	104.18.42.182
+172.64.145.74
+devpartnersrm.walmart.com	136.146.16.149
+136.146.28.149
+136.146.25.149
+mx-moc-prod-mapping-service.walmart.com	20.40.202.21
+qa.zeekit.www-teflon.walmart.com	23.205.110.153
+23.205.110.148
+content.pendo.seller.walmart.com	34.111.138.51
+csservice.walmart.com	161.170.236.170
+161.170.238.170
+ndc-classrooms.walmart.com	161.170.244.130
+petbox.walmart.com	23.227.38.74
+plus.walmart.com	23.205.110.144
+23.205.110.138
+23.205.110.143
+23.205.110.141
+23.205.110.133
+23.205.110.140
+23.205.110.139
+23.205.110.137
+23.205.110.145
+desk.dsp.walmart.com	20.102.15.82
+qa-xref-ca-wal-ext.walmart.com	161.170.242.55
+stage.liveaccess.invue.walmart.com	172.212.124.88
+ecm-web-cert.walmart.com	23.64.153.197
+wwwtest-qa2.walmart.com	140.174.10.212
+serviz-qa.walmart.com	23.220.161.208
+23.220.161.215
+r-bvbrd-02-g1.walmart.com	161.170.255.12
+mytech.appstore.qa.walmart.com	146.75.126.132
+smartcreatives.stg.walmart.com	172.64.145.74
+104.18.42.182
+ak-dal01-suppliercenter.walmart.com	161.170.238.74
+prod.liveaccess.invue.walmart.com	172.212.35.217
+newsletter-12.walmart.com	161.167.252.14
+customersparkcommunity.walmart.com	172.64.145.74
+104.18.42.182
+comunidadspark.walmart.com	104.18.42.182
+172.64.145.74
+stagephotoweb1.walmart.com	140.174.10.236
+api.feedbackally.walmart.com	104.18.42.182
+172.64.145.74
+sdc-vtweapp.walmart.com	161.170.241.21
+walmartsustainabilityhub.sustainabilityportal.walmart.com	172.64.145.74
+104.18.42.182
+newsletter-25.walmart.com	161.168.242.7
+i2s-stg.walmart.com	23.205.110.149
+23.205.110.135
+inhome.stg.walmart.com	23.64.153.197
+egiftcards.qa.centroamerica.walmart.com	104.18.42.182
+172.64.145.74
+sharepointwebhook.dpa.dev.walmart.com	23.205.110.135
+23.205.110.149
+q-api.www-teflon.walmart.com	172.64.145.74
+104.18.42.182
+interviewing.walmart.com	172.64.145.74
+104.18.42.182
+spark.walmart.com	172.64.145.74
+104.18.42.182
+www-e9.walmart.com	161.170.241.136
+research.walmart.com	20.185.220.135
+preorder.wireless.walmart.com	23.205.110.142
+23.205.110.149
+www-idev1-origin.walmart.com	140.174.10.183
+collector.defenderx.stage.walmart.com	172.64.145.74
+104.18.42.182
+wmtmanagedb2c-identity-qa.walmart.com	104.18.42.182
+172.64.145.74
+i2s-qa.walmart.com	23.205.110.149
+23.205.110.135
+horuag-cndc1-1.walmart.com	43.229.216.39
+swift.walmart.com	23.64.157.96
+stg-status.walmart.com	104.18.42.182
+172.64.145.74
+eclosing-api-stage.walmart.com	172.64.145.74
+104.18.42.182
+wmgate-hro.walmart.com	104.18.42.182
+172.64.145.74
+vcsedgee-3.walmart.com	161.165.195.47
+www2-vqa4.walmart.com	140.174.10.186
+wallet-teflon.business-teflon.walmart.com	23.205.110.149
+23.205.110.135
+giftcards.walmart.com	23.64.138.4
+inlinereviews.walmart.com	18.165.31.110
+18.165.31.33
+18.165.31.96
+18.165.31.71
+test-digitaldownload.walmart.com	65.205.253.239
+stage-corporate.walmart.com	23.203.95.145
+zeekit.walmart.com	146.75.126.132
+brandhelp.walmart.com	13.109.180.7
+13.109.180.8
+13.109.180.9
+extgst.walmart.com	23.205.110.136
+23.205.110.139
+23.205.110.140
+23.205.110.145
+23.205.110.143
+23.205.110.144
+23.205.110.132
+23.205.110.146
+23.205.110.133
+sandbox.delivery.walmart.com	23.64.154.214
+ak-edc-torbit-grocery.walmart.com	161.170.249.98
+onesource-gateway.stg.walmart.com	172.64.145.74
+104.18.42.182
+ums.cert.sourcing.walmart.com	146.75.126.132
+wwwtest-vqa2.walmart.com	140.174.10.217
+walmartbenefits.walmart.com	198.245.82.46
+try.walmart.com	23.205.110.137
+23.205.110.145
+23.205.110.142
+23.205.110.141
+23.205.110.144
+23.205.110.136
+23.205.110.143
+23.205.110.140
+23.205.110.135
+bounce02-services.walmart.com	161.170.238.31
+trading.walmart.com	161.170.244.20
+eduacademy.walmart.com	23.205.110.154
+23.205.110.149
+23.205.110.145
+23.205.110.142
+23.205.110.155
+23.205.110.132
+23.205.110.143
+23.205.110.144
+23.205.110.150
+test-jewelrydesign.walmart.com	72.3.218.41
+wallet-teflon.www-teflon.walmart.com	23.205.110.135
+23.205.110.149
+ak-ndc01-tracking-wmcc-mail.walmart.com	161.170.244.245
+n-dmz-sbc01-wxce.walmart.com	161.168.144.37
+stg-payment.walmart.com	161.170.242.119
+developer.api.us2.walmart.com	23.205.110.144
+23.205.110.143
+23.205.110.137
+23.205.110.141
+23.205.110.140
+23.205.110.138
+23.205.110.147
+23.205.110.145
+23.205.110.139
+stg.wmfedaccess.walmart.com	23.205.110.135
+23.205.110.149
+digitaltoolboxwidget.walmart.com	172.64.145.74
+104.18.42.182
+merlin-marketplace.walmart.com	146.75.126.132
+ebob-inbound.walmart.com	161.170.244.51
+drive4spark.walmart.com	23.205.110.155
+23.205.110.145
+23.205.110.142
+23.205.110.143
+23.205.110.150
+23.205.110.149
+23.205.110.144
+23.205.110.154
+23.205.110.139
+bounce-rs1.walmart.com	161.170.244.198
+ewww.walmart.com	161.170.248.20
+wmrdugt.walmart.com	190.56.85.105
+newsletter-40.walmart.com	161.168.242.22
+corporate.newhomeofficemap.walmart.com	146.75.126.132
+ds-prod.walmart.com	23.36.60.232
+gs-images-stg.walmart.com	23.64.154.214
+downloadsndc.walmart.com	161.170.244.23
+viewinbrowser.walmart.com	166.90.142.130
+customersparksurvey.walmart.com	172.64.145.74
+104.18.42.182
+stride.walmart.com	23.205.110.149
+23.205.110.143
+23.205.110.142
+23.205.110.154
+23.205.110.139
+23.205.110.144
+23.205.110.150
+23.205.110.145
+23.205.110.155
+mobile-idev2.walmart.com	140.174.10.212
+stage-livebetteru.walmart.com	23.203.95.145
+dns-monitor.walmart.com	161.170.232.170
+giftcards-locker.walmart.com	23.203.83.3
+mytech.walmart.com	172.64.145.74
+104.18.42.182
+wmtmanagedb2c-login-qa.walmart.com	20.190.157.2
+40.126.29.5
+20.190.157.12
+40.126.29.9
+20.190.157.0
+40.126.29.13
+20.190.157.9
+20.190.157.11
+digitalmusic.walmart.com	65.205.253.240
+newsletter-4.walmart.com	161.167.252.6
+enews.walmart.com	35.227.225.220
+library.walmart.com	146.75.31.10
+opapi-idev2.walmart.com	140.174.10.227
+developer.api.ca.stg.walmart.com	23.205.110.153
+23.205.110.148
+newsletter-11.walmart.com	161.167.252.13
+merlin-marketplace-stg.walmart.com	172.64.145.74
+104.18.42.182
+helicarrier.walmart.com	172.64.145.74
+104.18.42.182
+developer.us.walmart.com	23.205.110.140
+23.205.110.150
+23.205.110.144
+23.205.110.139
+23.205.110.142
+23.205.110.153
+23.205.110.147
+23.205.110.146
+23.205.110.151
+bnc3.walmart.com	35.195.220.65
+dfw-grocery-services.walmart.com	161.170.236.99
+r-dfwbrd-01-l0.walmart.com	161.170.255.60
+clickgs.globalstore.walmart.com	3.20.194.73
+3.220.122.174
+3.20.87.51
+3.231.179.208
+54.158.174.185
+18.224.219.179
+api.inhome.walmart.com	23.64.155.219
+crystal.stage.walmart.com	172.64.145.74
+104.18.42.182
+r-bvbrd-01-l0.walmart.com	161.170.255.56
+gwfm-ext.walmart.com	23.64.157.96
+www-preview.walmart.com	23.203.83.3
+visit-api.walmart.com	23.205.110.149
+23.205.110.142
+currentphotoqa.walmart.com	65.249.153.182
+qa-finepaper.walmart.com	204.86.194.1
+ak-ndc-i-grocery.walmart.com	161.170.245.99
+webservices-vqa1.walmart.com	140.174.10.199
+desk-internal.dsp.walmart.com	20.102.15.82
+asda-global-inventory.walmart.com	161.170.238.26
+sparknotifications.stage.walmart.com	172.64.145.74
+104.18.42.182
+reels.walmart.com	23.201.96.155
+23.201.96.168
+ebob-inbound-e12.walmart.com	161.170.240.139
+edu-stage.walmart.com	23.205.110.149
+23.205.110.135
+dfw-beacon.mobile.walmart.com	20.230.171.39
+twesoap.walmart.com	161.170.244.70
+qahomeloans.walmart.com	12.24.85.118
+qa.zeekit.www.walmart.com	104.18.42.182
+172.64.145.74
+autoloans.walmart.com	161.170.244.20
+guide-api-qa.walmart.com	23.205.110.148
+23.205.110.153
+pdmnt13340us.walmart.com	161.167.229.52
+wwwstagephoto-ssl.walmart.com	161.170.244.43
+payment-usgroceries-qa.walmart.com	161.165.194.29
+lifeinsurance.walmart.com	161.170.244.20
+sandbox.gscope.walmart.com	23.64.154.214
+ak-b-dfw01-www.walmart.com	161.170.236.64
+collector.walmart.com	161.170.236.69
+161.170.238.69
+q1-caportal.walmart.com	161.170.242.108
+www.entry.survey.walmart.com	199.102.178.208
+stage.comunidadspark.walmart.com	146.75.126.132
+advertising.staging.walmart.com	23.205.110.135
+23.205.110.149
+glm-stage.walmart.com	146.75.126.132
+stage.acnt.walmart.com	146.75.126.132
+wsapi-idev1.walmart.com	140.174.10.228
+ak-ndc01-tracking-samsmx-mail.walmart.com	161.170.244.223
+189-bris.walmart.com	140.174.10.189
+pin.walmart.com	23.219.91.9
+23.219.91.19
+ebob-outbound-vqa2.walmart.com	140.174.10.157
+servicio.walmart.com	20.185.220.135
+homeloans.walmart.com	12.24.85.117
+dal-grocery-services.walmart.com	161.170.238.99
+mytech.stage.walmart.com	23.64.153.197
+mortgages.walmart.com	161.170.244.20
+prospecart-gm.walmart.com	199.231.198.118
+c-dmz-qa-sbc01.faxe.walmart.com	161.167.229.115
+marchamos.walmart.com	20.185.220.135
+marketplacelearn.walmart.com	23.205.110.136
+23.205.110.150
+23.205.110.144
+23.205.110.148
+brandcenter.walmart.com	146.75.127.10
+www.careers.walmart.com	63.131.135.125
+cert-me.walmart.com	23.203.95.145
+newsletter39.walmart.com	161.170.248.27
+public.walmart.com	23.205.110.142
+23.205.110.145
